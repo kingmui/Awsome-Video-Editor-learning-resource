@@ -1,4 +1,4 @@
-### 无缝转场预设和插件
+### 插件集
 
 - [FilmImpact Transition Packs](https://www.filmimpact.net/plugins/)
 
